@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Geo-Address-Mail-Standardizer-USPS-AMS
-version:            0.02
+version:            0.03
 abstract:           address standardization using the United States Postal Service Address Matching System
 author:
     - Mike Eldridge <diz@cpan.org>
